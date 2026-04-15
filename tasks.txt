@@ -7,7 +7,7 @@ KEY:
 3: High - Red
 4: ASAP - Black
 
-FORMATTING: To format, follow this structure. Start with the priority being the first part of a new line, then begin text. Begin and end the task with a }.
+FORMATTING: To format, follow this structure. Start with the priority being the first part of a new line, then begin text. Begin and end the task with {}.
 
 2:{Buy picnic supplies}
 3:{Pick up kids from school}
