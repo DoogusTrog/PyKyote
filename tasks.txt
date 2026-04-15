@@ -11,7 +11,8 @@ FORMATTING: To format, follow this structure. Start with the priority being the 
 
 2:{Buy picnic supplies}
 3:{Pick up kids from school}
-4:{Pay credit card balance when you get check!}
+4:{Pay credit card balance when you get check!}:F
+
 
 
 
