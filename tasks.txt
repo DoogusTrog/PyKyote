@@ -10,7 +10,8 @@ KEY:
 FORMATTING: To format, follow this structure. Start with the priority being the first part of a new line, then begin text. Begin and end the task with {}.
 
 2:{Buy picnic supplies}
-3:{Pick up kids from school}
+3:{Pick up kids from school}:F
+
 4:{Pay credit card balance when you get check!}:F
 
 
