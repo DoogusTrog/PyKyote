@@ -19,3 +19,4 @@ FORMATTING: To format, follow this structure. Start with the priority being the 
 
 
 If scaled, this could be pushed to use this format locally on a server. priority, then brackets containing the task. This could be pushed to ANY device, at once!
+4:{GET A LIFE }
